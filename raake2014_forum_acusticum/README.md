@@ -28,4 +28,5 @@ listener. A grey point in the figure shows a non-degraded source, a blue or red
 dot a degraded source.
 
 ![Conditions and quality ratings](conditions.png)
-*Figure 1*: The ten different conditions of the quality test.
+
+**Figure 1**: The ten different conditions of the quality test.
