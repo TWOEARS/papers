@@ -20,3 +20,12 @@ available](https://github.com/TWOEARS/data/tree/master/impulse_responses/qu_kema
 together with the [Sound Field Synthesis
 Toolbox](https://github.com/sfstoolbox/sfs) which was used to generate the
 degredations by applying Wave Field Synthesis.
+
+Figure 1 presents the 10 different conditions of the experiment ordered after their perceived
+quality, starting with the best one. The scene was created of three sound
+sources, two guitars to the side of the listener and a singer in front of the
+listener. A grey point in the figure shows a non-degraded source, a blue or red
+dot a degraded source.
+
+![Conditions and quality ratings](conditions.png)
+*Figure 1*: The ten different conditions of the quality test.
