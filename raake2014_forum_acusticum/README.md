@@ -30,3 +30,7 @@ dot a degraded source.
 ![Conditions and quality ratings](conditions.png)
 
 **Figure 1**: The ten different conditions of the quality test.
+
+
+License: Creative Commons Attribution ShareAlike 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
