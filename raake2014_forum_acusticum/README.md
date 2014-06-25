@@ -5,7 +5,7 @@ Here you will find supplementary material for the paper:
 A. Raake, H. Wierstorf, J. Blauert - A case for TWO!EARS in audio quality
 assessment, FORUM ACUSTICUM 2014
 
-# Stimuli from Experiment 2: Scene-based Quality
+## Stimuli from Experiment 2: Scene-based Quality
 
 This folder contains all stimuli used in the 2. experiment of the paper which
 conducted a scene-based quality test. The stimuli were generated using a
@@ -32,5 +32,7 @@ dot a degraded source.
 **Figure 1**: The ten different conditions of the quality test.
 
 
-License: Creative Commons Attribution ShareAlike 3.0  
+### License
+
+Creative Commons Attribution ShareAlike 3.0  
 http://creativecommons.org/licenses/by-sa/3.0/
