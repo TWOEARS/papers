@@ -8,7 +8,7 @@ assessment, FORUM ACUSTICUM 2014
 ## Stimuli from Experiment 2: Scene-based Quality
 
 This folder contains all stimuli used in the 2. experiment of the paper which
-conducted a scene-based quality test. The stimuli were generated using a
+was a scene-based quality test. The stimuli were generated using a
 [recording done by the FH
 Köln](https://github.com/ssr-scenes/fh-koeln/tree/master/anechoic/audio).
 
@@ -33,6 +33,8 @@ dot a degraded source.
 
 
 ### License
+
+The stimuli were created by Julian Dierkes and Hagen Wierstorf
 
 Creative Commons Attribution ShareAlike 3.0  
 http://creativecommons.org/licenses/by-sa/3.0/
